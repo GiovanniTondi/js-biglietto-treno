@@ -8,3 +8,20 @@ va applicato uno sconto del 20% per i minorenni
 va applicato uno sconto del 40% per gli over 65.
 
 */
+
+// Chiedere i km
+
+
+// Chiedere l'età
+
+
+// Calcolo il prezzo totale del viaggio (km * 0.21)
+
+
+// Se età inferiore a 18 calcolare uno sconto del 20%
+
+
+// Se età superiore a 65 calcolare uno sconto del 40%
+
+
+// Stampare output
